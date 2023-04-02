@@ -1,7 +1,7 @@
 {
   "search": [
     { 
-      "id": 1, 
+      "id": "1", 
       "no": 1, 
       "baNo": "BA-0001", 
       "invoiceNo":"INV-0001", 
@@ -18,7 +18,7 @@
       "serviceName":"โอน"
     },
     { 
-      "id": 2, 
+      "id": "2", 
       "no": 2, 
       "baNo": "BA-0002", 
       "invoiceNo":"INV-0002", 
@@ -35,7 +35,7 @@
       "serviceName":"โอน"
     },
     { 
-      "id": 3, 
+      "id": "3", 
       "no": 3, 
       "baNo": "BA-0003", 
       "invoiceNo":"INV-0003", 
